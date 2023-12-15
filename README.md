@@ -26,26 +26,3 @@
 
 <h3 align="left">Stars</h3>
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=123aram123&show_icons=true&locale=en&theme=" alt="123aram123" /></p>
-
-Support
-Are you using the tool and happy with it to create your GitHub Repository?
-
-Please Don't Forget to Star This Repository
-FlowBite Logo
-Github Readme Generator
-RESOURCES
-Github Readme Generator
-Source Code
-FOLLOW US
-Github
-Linkedin
-LEGAL
-Privacy Policy
-Terms & Conditions
-© 2023 . All Rights Reserved.
-Made ❤️ by Sashen Jayathilaka
-Facebook page
-Instagram page
-Twitter page
-GitHub account
-Dribbble account
