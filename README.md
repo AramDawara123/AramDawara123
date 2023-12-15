@@ -1,22 +1,3 @@
-AGRG: Awesome Github Readme Generator
-
-Awesome Github Readme Generator
-Sign In
-
-Awesome Github Profile README.md Generator
-
-Star This Repository
-Fork This Repository
-
-Back To Edit
-
-Copy Markdown
-
-Download Markdown
-
-Download Backup
-
-Preview Markdown
 <h1 align="center">Hi 👋, I'm Aram Dawara</h1>
 <h3 align="center">Im a developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=123aram123&label=Profile%20views&color=0e75b6&style=flat" alt="123aram123" /> </p>
