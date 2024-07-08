@@ -2,8 +2,6 @@
 <h3 align="center">Im a developer</h3>
 <p align="left"> <img src="https://github.com/AramDawara123" alt="123aram123" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=123aram123&theme=" alt="123aram123" /></a> </p>
-
 - 🌱 I’m currently learning **Javascript**
 
 
