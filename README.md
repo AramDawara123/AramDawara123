@@ -2,8 +2,7 @@
 <h3 align="center">A Passionate Developer</h3>
 
 <p align="center">
-  🌱 I’m currently diving deeper into <strong>JavaScript</strong> <br>
-  ⚡ My hobbies include <strong>fitness</strong>.
+  🌱 I’m currently diving deeper into <strong>JavaScript</strong>
 </p>
 
 ---
