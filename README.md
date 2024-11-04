@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aram Dawara</h1>
-<h3 align="center">A Passionate Developer</h3>
 
 <p align="center">
-  🌱 I’m currently diving into <strong>JavaScript</strong> <br>
-  ⚡ My hobbies include <strong>Fitness</strong>
+  🌱 I’m currently diving deeper into <strong>JavaScript</strong> <br>
+  ⚡ My hobbies include <strong>fitness</strong>.
 </p>
 
 <h3 align="left">🌐 Connect with me:</h3>
